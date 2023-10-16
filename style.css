@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 50px;
+    background-color: red;
+    border: dotted;
+}
+
+.title-job {
+    background-color: rgb(179, 208, 230);
+    height: 400px;
+    margin-bottom: 100px;
+    border: dotted;
+}
+
+.search-business {
+    margin: 0 5rem;
+    background-color: magenta;
+    height: 100px;
+    border: dotted;
+}
+
+.columns {
+    margin: 0 5rem;
+    background-color: blue;
+    height: 550px;
+    border: dotted;
+}
+
+.column-one {
+    width: 33%;
+    height: 550px;
+    border: dotted;
+}
