@@ -58,7 +58,7 @@ header {
 
 .horizontal {
     background-color: blueviolet;
-    height: 120px;
+    height: 180px;
     border: dotted;
     margin: 0 23rem;
     margin-bottom: 70px;
@@ -93,4 +93,40 @@ header {
     background-color: brown;
     height: 600px;
     border: dotted;
+    margin-bottom: 150px;
+}
+
+.title-button {
+    margin: 0 23rem;
+    background-color: green;
+    height: 150px;
+    border: dotted;
+    margin-bottom: 80px;
+}
+
+.designit {
+    background-color: rgb(97, 8, 42);
+    height: 400px;
+    border: dotted;
+}
+
+.light-blue {
+    background-color: rgb(179, 208, 230);
+    height: 250px;
+    border: dotted;
+    margin-bottom: 120px;
+}
+
+.questions {
+    margin: 0 23rem;
+    background-color: orange;
+    height: 350px;
+    border: dotted;
+    margin-bottom: 150px;
+}
+
+.black {
+    background-color: black;
+    height: 450px;
+    border: dotted white;
 }
