@@ -18,21 +18,79 @@ header {
 }
 
 .search-business {
-    margin: 0 5rem;
+    margin: 0 23rem;
     background-color: magenta;
     height: 100px;
     border: dotted;
 }
 
 .columns {
-    margin: 0 5rem;
+    margin: 0 23rem;
     background-color: blue;
     height: 550px;
     border: dotted;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
 }
 
-.column-one {
-    width: 33%;
-    height: 550px;
+.column-one{
+    width: 190px;
+    height: 549px;
+    border: dotted;
+}
+
+.column-two{
+    width: 190px;
+    height: 549px;
+    border: dotted;
+}
+
+.column-three{
+    width: 190px;
+    height: 549px;
+    border: dotted;
+}
+
+.margin-right {
+    margin-right: 50px;
+}
+
+.horizontal {
+    background-color: blueviolet;
+    height: 120px;
+    border: dotted;
+    margin: 0 23rem;
+    margin-bottom: 70px;
+}
+
+.white {
+    background-color: white;
+    margin: 0 23rem;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 70px;
+}
+
+.img {
+    background-color: yellow;
+    width: 400px;
+    height: 300px;
+    border: dotted;
+}
+
+.paragraph {
+    background-color: aquamarine;
+    width: 300px;
+    height: 300px;
+    border: dotted;
+}
+
+.six-paragraph {
+    margin: 0 23rem;
+    background-color: brown;
+    height: 600px;
     border: dotted;
 }
