@@ -91,7 +91,7 @@ h1 {
     font-size: 11px;
 }
 
-.fa-solid {
+.arrow-down {
     padding-top: 6rem;
     padding-left: 14rem;
     font-size: 40px;
@@ -107,10 +107,8 @@ h3 {
 }
 
 .columns {
-    margin: 0 23rem;
-    background-color: blue;
-    height: 550px;
-    border: dotted;
+    margin: 0 20rem;
+    height: 600px;
     display: flex;
     flex-direction: row;
     margin-bottom: 30px;
@@ -118,21 +116,140 @@ h3 {
 }
 
 .column-one{
-    width: 190px;
-    height: 549px;
-    border: dotted;
+    padding-right: 2rem;
+    width: 300px;
+    height: 600px;
+    border:  1px solid lightgrey;
+}
+
+h6 {
+    text-align: center;
+    padding-top: 0.5rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+}
+
+.contact {
+    font-size: 10px;
+    margin-bottom: 3rem;
+}
+
+.contatto {
+    font-size: 10px;
+    padding-left: 3rem;
+}
+
+.padding-top{
+    padding-top: 3.5rem;
+}
+
+.users {
+    padding-right: 0.25rem;
+}
+
+.column-one-container {
+    padding-left: 1rem;
+}
+
+.padding-1rem {
+    padding-bottom: 1rem;
+}
+
+.pay {
+    font-size: 12px;
+}
+
+.font-size {
+    font-size: 9px;
+    padding-bottom: 1rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.user{
+    font-size: 10px;
+    padding-right: 0.25rem;
+}
+
+.folder {
+    font-size: 10px;
+    padding-right: 0.25rem;
+}
+
+.share {
+    font-size: 10px;
+    padding-right: 0.25rem;
+    padding-bottom: 2rem;
+}
+
+.light-grey {
+    color: lightgrey;
+    display: block;
+    font-size: 10px;
+    padding-top: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+.try-for-free{
+    padding-left: 1rem;
+    font-size: 10px;
+}
+
+.bg-blue{
+    background-color: rgb(0, 97, 251);
+    color: white;
+    width: 150px;
+    height: 28px;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+
+.bg-white{
+    background-color: white;
+    border-bottom: lightgrey solid;
+    height: 43px;
+    width: 100px; 
+    margin-bottom: 1rem;
+}
+
+.shop {
+    padding-top: 1rem;
+    font-size: 10px;
+}
+
+.floor{
+    font-size: 10px;
+    margin-bottom: 20px;
+}
+
+.check {
+    color: rgb(6, 92, 251);
+    padding-right: 0.25rem;
+}
+
+.font-size-floor {
+    font-size: 9px;
+    padding-top: 1rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.column-one-padding {
+    
 }
 
 .column-two{
-    width: 190px;
-    height: 549px;
-    border: dotted;
+    padding-right: 2rem;
+    width: 300px;
+    height: 600px;
+    border: 1px solid lightgrey;
 }
 
 .column-three{
-    width: 190px;
-    height: 549px;
-    border: dotted;
+    padding-right: 2rem;
+    width: 300px;
+    height: 600px;
+    border: 1px solid lightgrey;
 }
 
 .margin-right {
